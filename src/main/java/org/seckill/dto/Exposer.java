@@ -6,7 +6,7 @@ package org.seckill.dto;
  */
 public class Exposer {
 
-    //是否开启秒杀
+    //是否开启秒杀。
     private boolean exposed;
 
     //一种加密措施
